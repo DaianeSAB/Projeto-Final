@@ -1,6 +1,6 @@
 # Projeto-Final
-Tema: Mercado de Trabalho
-Grupo: Daiane Silva, Felipe Rinaldini, Talita Dwyer e José Henrique Teles 
+Tema: Mercado de Trabalho |
+Grupo: Daiane Silva, Felipe Rinaldini, Talita Dwyer e José Henrique Teles | 
 Orientador: Prof. Bismark William Araújo
 
 Requisitos: 2 ou mais datasets com o tema Mercado de Trabalho. 
